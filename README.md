@@ -7,6 +7,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thebielcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebielcode&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+   
+   ##                                                                                                                                              
+      
   
 ### • 👨‍💻 Minhas Linguagens de Programação:
   
@@ -23,7 +26,10 @@
   <img align="center" alt=Biel-Postgress" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     
   
-</div>
+</div> 
+  
+   ##                                                                                                                                              
+      
 
 ### • 💻 Programas Adicionais:
 
@@ -36,18 +42,25 @@
   <img align="center" alt=Biel-Heroku" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg">
   <img align="center" alt=Biel-Trello" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   </div>
-  
-### • 💻 Programas de Design:
+   
+   ##                                                                                                                                              
+      
+### • ✍📽 Programas de Design:
   <div style="display: inline_block"><br>
     <img align="center" alt="Biel-PS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
     <img align="center" alt="Biel-AI" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
     <img align="center" alt="Biel-AE" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg">
     <img align="center" alt="Biel-Maya" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg">
     <img align="center" alt="Biel-Figma" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  </div>
-  
-  ##
- 
+  </div>          
+                                                                                                                                                 
+                                                                                                                                                  
+   ##                                                                                                                                              
+      
+                                                                                                                                              
+  ### • 🌐 Redes Sociais:
+                                                                                                                                             
+                                                                                                                                                 
 <div> 
   <a href="https://facebook.com/gabrielsantossturaro" target="_blank"><img src="https://img.shields.io/badge/Facebook-3d5a98?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gssdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
