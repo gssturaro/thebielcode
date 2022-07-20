@@ -1,4 +1,4 @@
-## Olá Mundo 🌎! Eu sou o Gabriel Sturaro (thebielcode).
+## Olá Mundo 🌎! Eu sou o Gabriel Sturaro.
 
 #### • Desenvolvedor Full-Stack e Designer Gráfico.
 
